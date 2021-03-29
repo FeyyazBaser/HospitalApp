@@ -4,7 +4,8 @@ using System.Text;
 
 namespace HospitalApp.Core.Entities
 {
-    class Patient
+    public class Patient
     {
+
     }
 }
